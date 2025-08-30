@@ -30,7 +30,7 @@ const NavBar = () => {
     <nav className="navbar sticky top-0 z-50 bg-black border-b border-green-500 py-2 px-4">
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         <span className="text-white text-xl font-mono tracking-tight">
-          <span className="text-blue-400 mr-2">&gt;_</span>Rafli Permana
+          <span className="text-blue-400 mr-2">&gt;_</span>Rafli Permana Putra
         </span>
         <div className="flex space-x-4">
           {['Home', 'About', 'Skills', 'Projects', 'Certifications'/*, 'Contact'*/].map((section) => {

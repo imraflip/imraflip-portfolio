@@ -23,7 +23,7 @@ export default function Home() {
             <span className="text-red-500">$</span> echo "Welcome to Rafli's Terminal"
           </p>
 
-          <h1 className="text-xl font-bold mt-4 text-white">Rafli Permana</h1>
+          <h1 className="text-xl font-bold mt-4 text-white">Rafli Permana Putra</h1>
           <p className="text-base text-gray-300">Aspiring IT Support & Help Desk Engineer | Future SOC Analyst</p>
 
           <p className="mt-4 text-white">
